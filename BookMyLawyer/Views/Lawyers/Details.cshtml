@@ -1,0 +1,58 @@
+﻿@model BookMyLawyer.Models.Lawyer
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Lawyer</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Experience)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Experience)
+        </dd>
+
+    </dl>
+</div>
+<div>
+    <h2 id="smena1">Clients to the given lawyer:</h2>
+    <h3>Current earnings: @Model.Earnings</h3>
+    <ul id="smena3">
+    @foreach(var client in Model.clients)
+    {
+        <li>
+            <a class="smena2" href="/Clients/Details/@client.ID">@client.Name, @client.Phone</a>
+        </li>
+    }
+    </ul>
+</div>
+<a href="/Lawyers/InsertNewClient/@Model.ID">Insert new client.</a>
+
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,449 @@
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\BookMyLawyer.dll.config
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\BookMyLawyer.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\BookMyLawyer.pdb
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\csc.exe
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\csc.exe.config
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\csc.rsp
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\csi.exe
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\csi.exe.config
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\csi.rsp
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.AppContext.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Console.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Net.Http.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\vbc.exe
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\vbc.exe.config
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\vbc.rsp
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Antlr3.Runtime.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\EntityFramework.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\EntityFramework.SqlServer.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Newtonsoft.Json.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Owin.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\System.Web.Helpers.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\System.Web.Mvc.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\System.Web.Optimization.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\System.Web.Razor.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\WebGrease.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\EntityFramework.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\EntityFramework.SqlServer.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\System.Web.Helpers.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\System.Web.Mvc.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\System.Web.Optimization.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\System.Web.Razor.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Newtonsoft.Json.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Antlr3.Runtime.pdb
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.csprojAssemblyReference.cache
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.csproj.CopyComplete
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.dll
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.pdb
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.Migrations.initial.resources
+C:\Users\Andrea\source\repos\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.csproj.GenerateResource.cache
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\BookMyLawyer.dll.config
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\BookMyLawyer.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\BookMyLawyer.pdb
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\csc.exe
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\csc.exe.config
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\csc.rsp
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\csi.exe
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\csi.exe.config
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\csi.rsp
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.AppContext.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Console.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Net.Http.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\vbc.exe
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\vbc.exe.config
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\vbc.rsp
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Antlr3.Runtime.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\EntityFramework.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\EntityFramework.SqlServer.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Newtonsoft.Json.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Owin.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\System.Web.Helpers.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\System.Web.Mvc.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\System.Web.Optimization.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\System.Web.Razor.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\WebGrease.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\EntityFramework.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\EntityFramework.SqlServer.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\System.Web.Helpers.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\System.Web.Mvc.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\System.Web.Optimization.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\System.Web.Razor.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Newtonsoft.Json.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Antlr3.Runtime.pdb
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.csprojAssemblyReference.cache
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.Migrations.initial.resources
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.csproj.GenerateResource.cache
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.csproj.CoreCompileInputs.cache
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.csproj.CopyComplete
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.dll
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.pdb
+C:\Users\Petkov\Downloads\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.Migrations.dodadenoClientLawyer.resources
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\BookMyLawyer.dll.config
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\BookMyLawyer.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\BookMyLawyer.pdb
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\csc.exe
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\csc.exe.config
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\csc.rsp
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\csi.exe
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\csi.exe.config
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\csi.rsp
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.AppContext.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Console.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Net.Http.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\vbc.exe
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\vbc.exe.config
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\vbc.rsp
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Antlr3.Runtime.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\EntityFramework.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\EntityFramework.SqlServer.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Newtonsoft.Json.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Owin.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\System.Web.Helpers.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\System.Web.Mvc.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\System.Web.Optimization.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\System.Web.Razor.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\WebGrease.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\EntityFramework.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\EntityFramework.SqlServer.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\System.Web.Helpers.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\System.Web.Mvc.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\System.Web.Optimization.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\System.Web.Razor.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Newtonsoft.Json.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Antlr3.Runtime.pdb
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.Migrations.initial.resources
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.Migrations.dodadenoClientLawyer.resources
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.csproj.CopyComplete
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.dll
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.pdb
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.Migrations.update.resources
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.Migrations.priceremoved.resources
+C:\Users\Andrea\Desktop\IT Proektna\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.Migrations.earnings.resources
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\BookMyLawyer.dll.config
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\BookMyLawyer.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\BookMyLawyer.pdb
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\csc.exe
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\csc.exe.config
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\csc.rsp
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\csi.exe
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\csi.exe.config
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\csi.rsp
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.AppContext.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Console.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.IO.Compression.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Net.Http.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.ValueTuple.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\vbc.exe
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\vbc.exe.config
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\vbc.rsp
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\VBCSCompiler.exe
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Antlr3.Runtime.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\EntityFramework.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\EntityFramework.SqlServer.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Newtonsoft.Json.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Owin.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\System.Web.Helpers.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\System.Web.Mvc.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\System.Web.Optimization.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\System.Web.Razor.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.Razor.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\WebGrease.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\EntityFramework.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\EntityFramework.SqlServer.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\System.Web.Helpers.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\System.Web.Mvc.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\System.Web.Optimization.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\System.Web.Razor.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\System.Web.WebPages.Razor.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Newtonsoft.Json.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Antlr3.Runtime.pdb
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.csprojAssemblyReference.cache
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.Migrations.initial.resources
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.Migrations.dodadenoClientLawyer.resources
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.Migrations.update.resources
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.Migrations.priceremoved.resources
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.Migrations.earnings.resources
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.csproj.GenerateResource.cache
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.csproj.CoreCompileInputs.cache
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.csproj.CopyComplete
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.dll
+C:\Users\saran\Desktop\BookMyLawyer\BookMyLawyer\obj\Debug\BookMyLawyer.pdb

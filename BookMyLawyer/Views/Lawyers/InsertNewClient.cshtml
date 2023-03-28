@@ -1,0 +1,19 @@
+﻿@model BookMyLawyer.Models.LawyerClient
+
+@{
+    ViewBag.Title = "InsertNewClient";
+}
+
+<h2>Add client to to the lawyer: @Model.lawyer.Name</h2>
+@using (Html.BeginForm("InsertNewClient", "Lawyers"))
+{
+    <div class="form-group">
+        @Html.DropDownListFor(m => m.ClientId, new SelectList(Model.clients, "ID", "Name"), new { @class = "form-control" })
+        @Html.HiddenFor(m => m.LawyerId)
+    </div>
+    <div class="form-group">
+        <button type="submit">Add Client</button>
+    </div>
+
+}
+
